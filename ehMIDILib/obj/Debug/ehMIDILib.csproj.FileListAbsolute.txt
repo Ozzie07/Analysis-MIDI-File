@@ -4,3 +4,9 @@ C:\Users\gring\source\repos\Analysis_of_chunkList\ehMIDILib\obj\Debug\ehMIDILib.
 C:\Users\gring\source\repos\Analysis_of_chunkList\ehMIDILib\obj\Debug\ehMIDILib.dll
 C:\Users\gring\source\repos\Analysis_of_chunkList\ehMIDILib\obj\Debug\ehMIDILib.pdb
 C:\Users\gring\source\repos\Analysis_of_chunkList\ehMIDILib\obj\Debug\ehMIDILib.csproj.AssemblyReference.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\ehMIDILib\bin\Debug\ehMIDILib.dll
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\ehMIDILib\bin\Debug\ehMIDILib.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\ehMIDILib\obj\Debug\ehMIDILib.csproj.AssemblyReference.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\ehMIDILib\obj\Debug\ehMIDILib.csproj.CoreCompileInputs.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\ehMIDILib\obj\Debug\ehMIDILib.dll
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\ehMIDILib\obj\Debug\ehMIDILib.pdb

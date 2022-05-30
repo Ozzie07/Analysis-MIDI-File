@@ -10,7 +10,7 @@ namespace AnalysisOfSystemEvent
 {
     class Program
     {
-        static string fname = "example.mid";
+        static string fname = "Beethoven Symphony No.7_StudioOne.mid";
 
         static void Main(string[] args)
         {

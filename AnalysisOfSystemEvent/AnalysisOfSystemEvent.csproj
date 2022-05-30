@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ehMIDILib\ehMIDILib.csproj">
+      <Project>{ffa9a8db-502e-4039-9337-fcb019a5b6f4}</Project>
+      <Name>ehMIDILib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

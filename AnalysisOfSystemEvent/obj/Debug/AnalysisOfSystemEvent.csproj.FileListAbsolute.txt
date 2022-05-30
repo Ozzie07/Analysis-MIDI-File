@@ -1,0 +1,11 @@
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\bin\Debug\AnalysisOfSystemEvent.exe.config
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\bin\Debug\AnalysisOfSystemEvent.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\bin\Debug\AnalysisOfSystemEvent.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\bin\Debug\ehMIDILib.dll
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\bin\Debug\ehMIDILib.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\obj\Debug\AnalysisOfSystemEvent.csproj.AssemblyReference.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\obj\Debug\AnalysisOfSystemEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\obj\Debug\AnalysisOfSystemEvent.csproj.CoreCompileInputs.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\obj\Debug\AnalysisOfSystemEvent.csproj.CopyComplete
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\obj\Debug\AnalysisOfSystemEvent.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis-MIDI-File\AnalysisOfSystemEvent\obj\Debug\AnalysisOfSystemEvent.pdb

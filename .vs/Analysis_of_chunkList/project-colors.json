@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b5e0497-9c9e-4a36-8598-9a2de1510467": {
+      "ProjectGuid": "5b5e0497-9c9e-4a36-8598-9a2de1510467",
+      "DisplayName": "AnalysisOfMetaEvent",
+      "ColorIndex": 0
+    },
+    "59a9d91e-1a32-42df-9cc8-1ad3b5cb2874": {
+      "ProjectGuid": "59a9d91e-1a32-42df-9cc8-1ad3b5cb2874",
+      "DisplayName": "AnalysisOfHeaderChunk",
+      "ColorIndex": 1
+    },
+    "ffa9a8db-502e-4039-9337-fcb019a5b6f4": {
+      "ProjectGuid": "ffa9a8db-502e-4039-9337-fcb019a5b6f4",
+      "DisplayName": "ehMIDILib",
+      "ColorIndex": 2
+    },
+    "eaff0c06-2eac-48b6-9978-15f01df5078c": {
+      "ProjectGuid": "eaff0c06-2eac-48b6-9978-15f01df5078c",
+      "DisplayName": "Analysis_of_chunkList",
+      "ColorIndex": 3
+    },
+    "1f125650-4981-486f-9ab4-cf35a75dcde8": {
+      "ProjectGuid": "1f125650-4981-486f-9ab4-cf35a75dcde8",
+      "DisplayName": "AnalysisMIDIEvent",
+      "ColorIndex": 4
+    },
+    "2292dd2c-3e79-4690-baac-228d19a428bb": {
+      "ProjectGuid": "2292dd2c-3e79-4690-baac-228d19a428bb",
+      "DisplayName": "AnalysisOfSystemEvent",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
