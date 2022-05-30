@@ -1,0 +1,11 @@
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\bin\Debug\AnalysisOfMetaEvent.exe.config
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\bin\Debug\AnalysisOfMetaEvent.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\bin\Debug\AnalysisOfMetaEvent.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\bin\Debug\ehMIDILib.dll
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\bin\Debug\ehMIDILib.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\obj\Debug\AnalysisOfMetaEvent.csproj.AssemblyReference.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\obj\Debug\AnalysisOfMetaEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\obj\Debug\AnalysisOfMetaEvent.csproj.CoreCompileInputs.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\obj\Debug\AnalysisOfMetaEvent.csproj.CopyComplete
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\obj\Debug\AnalysisOfMetaEvent.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfMetaEvent\obj\Debug\AnalysisOfMetaEvent.pdb

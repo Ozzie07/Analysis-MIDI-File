@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analysis_of_chunkList", "Analysis_of_chunkList\Analysis_of_chunkList.csproj", "{EAFF0C06-2EAC-48B6-9978-15F01DF5078C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalysisOfHeaderChunk", "AnalysisOfHeaderChunk\AnalysisOfHeaderChunk.csproj", "{59A9D91E-1A32-42DF-9CC8-1AD3B5CB2874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ehMIDILib", "ehMIDILib\ehMIDILib.csproj", "{FFA9A8DB-502E-4039-9337-FCB019A5B6F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalysisOfMetaEvent", "AnalysisOfMetaEvent\AnalysisOfMetaEvent.csproj", "{5B5E0497-9C9E-4A36-8598-9A2DE1510467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalysisMIDIEvent", "AnalysisMIDIEvent\AnalysisMIDIEvent.csproj", "{1F125650-4981-486F-9AB4-CF35A75DCDE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFF0C06-2EAC-48B6-9978-15F01DF5078C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFF0C06-2EAC-48B6-9978-15F01DF5078C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFF0C06-2EAC-48B6-9978-15F01DF5078C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFF0C06-2EAC-48B6-9978-15F01DF5078C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A9D91E-1A32-42DF-9CC8-1AD3B5CB2874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A9D91E-1A32-42DF-9CC8-1AD3B5CB2874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A9D91E-1A32-42DF-9CC8-1AD3B5CB2874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A9D91E-1A32-42DF-9CC8-1AD3B5CB2874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA9A8DB-502E-4039-9337-FCB019A5B6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA9A8DB-502E-4039-9337-FCB019A5B6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA9A8DB-502E-4039-9337-FCB019A5B6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA9A8DB-502E-4039-9337-FCB019A5B6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5E0497-9C9E-4A36-8598-9A2DE1510467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5E0497-9C9E-4A36-8598-9A2DE1510467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5E0497-9C9E-4A36-8598-9A2DE1510467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5E0497-9C9E-4A36-8598-9A2DE1510467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F125650-4981-486F-9AB4-CF35A75DCDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F125650-4981-486F-9AB4-CF35A75DCDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F125650-4981-486F-9AB4-CF35A75DCDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F125650-4981-486F-9AB4-CF35A75DCDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C355E419-0832-460C-8F05-2A49B5A0438B}
+	EndGlobalSection
+EndGlobal

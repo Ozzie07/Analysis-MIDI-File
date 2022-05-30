@@ -1,0 +1,11 @@
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\bin\Debug\AnalysisOfHeaderChunk.exe.config
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\bin\Debug\AnalysisOfHeaderChunk.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\bin\Debug\AnalysisOfHeaderChunk.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\bin\Debug\ehMIDILib.dll
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\bin\Debug\ehMIDILib.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\obj\Debug\AnalysisOfHeaderChunk.csproj.AssemblyReference.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\obj\Debug\AnalysisOfHeaderChunk.csproj.SuggestedBindingRedirects.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\obj\Debug\AnalysisOfHeaderChunk.csproj.CoreCompileInputs.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\obj\Debug\AnalysisOfHeaderChunk.csproj.CopyComplete
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\obj\Debug\AnalysisOfHeaderChunk.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisOfHeaderChunk\obj\Debug\AnalysisOfHeaderChunk.pdb

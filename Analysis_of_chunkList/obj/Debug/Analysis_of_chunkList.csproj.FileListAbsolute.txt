@@ -1,0 +1,8 @@
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis_of_chunkList\bin\Debug\Analysis_of_chunkList.exe.config
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis_of_chunkList\bin\Debug\Analysis_of_chunkList.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis_of_chunkList\bin\Debug\Analysis_of_chunkList.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis_of_chunkList\obj\Debug\Analysis_of_chunkList.csproj.AssemblyReference.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis_of_chunkList\obj\Debug\Analysis_of_chunkList.csproj.SuggestedBindingRedirects.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis_of_chunkList\obj\Debug\Analysis_of_chunkList.csproj.CoreCompileInputs.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis_of_chunkList\obj\Debug\Analysis_of_chunkList.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\Analysis_of_chunkList\obj\Debug\Analysis_of_chunkList.pdb

@@ -1,0 +1,11 @@
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\bin\Debug\AnalysisMIDIEvent.exe.config
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\bin\Debug\AnalysisMIDIEvent.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\bin\Debug\AnalysisMIDIEvent.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\bin\Debug\ehMIDILib.dll
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\bin\Debug\ehMIDILib.pdb
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\obj\Debug\AnalysisMIDIEvent.csproj.AssemblyReference.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\obj\Debug\AnalysisMIDIEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\obj\Debug\AnalysisMIDIEvent.csproj.CoreCompileInputs.cache
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\obj\Debug\AnalysisMIDIEvent.csproj.CopyComplete
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\obj\Debug\AnalysisMIDIEvent.exe
+C:\Users\gring\source\repos\Analysis_of_chunkList\AnalysisMIDIEvent\obj\Debug\AnalysisMIDIEvent.pdb
